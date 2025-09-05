@@ -1,8 +1,8 @@
 # Saketh's First CS193 Homework
 
-- We learn about foundational CS tools that will help us in the long term
+- We learn about foundational CS tools that will be immensely helpful in the long term
 - The TA's are exceptionally supportive and will ensure your success
-- Ed discussion is the perfect platform to seek assistance on
+- CS 193 is by no means intended to be a rather rigorous class - you get out of it what you put into it
 
 
 ### Markdown
